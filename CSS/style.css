@@ -45,7 +45,7 @@ margin: 0;
 }
 
 #showcase{
-    background-image: url("../images/Unknown.jpeg");
+    background-image: url("../images/Unknown.jpeg") no-repeat;
     background-position: center right;
     min-height: 300px;
     margin-bottom: 30px;
